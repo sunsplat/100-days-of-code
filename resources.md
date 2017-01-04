@@ -7,6 +7,11 @@
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 
+## Algorithms and Games
+1. [Coding Game](http://www.codingame.com)
+2. [Hackerrank](http://www.hackerrank.com)
+3. [Code Wars](http://www.codewars.com)
+
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
 
