@@ -2,9 +2,9 @@
 
 ### Day 1: January 5, 2017 Thursday
 
-**Today's Progress**: Added sponsor.html to GSF revamp.
+**Today's Progress**: Added sponsor.html to GSF revamp. Created a form where users could sign up to sponsor a child in Haiti.
 
-**Thoughts:** : Had to figure out which file to edit and which file was compiled by Gulp. Working from the Views directory NOT the app directory.
+**Thoughts:** : Had to figure out which directory to add the file and which directory was compiled by Gulp. Working from the Views directory NOT the app directory.
 
 **Link to work:** [GSF repository](https://github.com/sunsplat/GSF)
 
