@@ -1,13 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 4, 2017 Wednesday
+### Day 1: January 5, 2017 Thursday
 
-**Today's Progress**: 
+**Today's Progress**: Added sponsor.html to GSF revamp.
 
-**Thoughts:** 
+**Thoughts:** : Had to figure out which file to edit and which file was compiled by Gulp. Working from the Views directory NOT the app directory.
 
-**Link to work:** []()
+**Link to work:** [GSF repository](https://github.com/sunsplat/GSF)
 
+==========================================================
 ### Day 0: February 30, 2016
 ##### (delete me or comment me out)
 
