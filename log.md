@@ -26,17 +26,15 @@
 I also wanted to try out Google's Material Design principles. Still playing around with the color palette and display.  
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)  
+[Twitch Favorite Channels app](https://github.com/sunsplat/fcc_twitch)
 
-==========================================================
-(example)
-### Day 1: June 27, Monday
+### Day 4: January 10, Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Digits Multiplication, Absolute Sorting, Median coding challenges on [Checkio](https://js.checkio.org/)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Learned about the Math.abs() function to work with absolute values. Practiced using the .filter() function with the .map function. Also used .sort(function(a,b){ return a-b}); more than once.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Digits Multiplication](https://js.checkio.org/mission/digits-multiplication/publications/category/clear/)
+2. [Absolute Sorting](https://js.checkio.org/mission/absolute-sorting/publications/category/clear/)  
+3. [Median](https://js.checkio.org/mission/median/publications/category/clear/)
