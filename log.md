@@ -38,3 +38,16 @@ I also wanted to try out Google's Material Design principles. Still playing arou
 1. [Digits Multiplication](https://js.checkio.org/mission/digits-multiplication/publications/category/clear/)
 2. [Absolute Sorting](https://js.checkio.org/mission/absolute-sorting/publications/category/clear/)  
 3. [Median](https://js.checkio.org/mission/median/publications/category/clear/)
+
+***  
+Starting over since I took a break to go on vacation.  
+  
+### Day 1: January 30, 2017 Monday  
+  
+**Today's Progress**: Spinal Tap Case and Sum All Fibonacci Numbers intermediate algorithm challenges on FCC.  
+
+**Thoughts:** : Learned how to group regex together and assign them to variables using .replace():   .replace(/([a-z])([A-Z])/g, '$1 $2')
+
+**Link to work:** [Spinal Tap Case Challenge](https://www.freecodecamp.com/challenges/spinal-tap-case)  
+[Sum All Fibonacci Challenge](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)  
+[My FCC page](https://www.freecodecamp.com/sunsplat)  
