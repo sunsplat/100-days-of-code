@@ -46,8 +46,19 @@ Starting over since I took a break to go on vacation.
   
 **Today's Progress**: Spinal Tap Case and Sum All Fibonacci Numbers intermediate algorithm challenges on FCC.  
 
-**Thoughts:** : Learned how to group regex together and assign them to variables using .replace():   .replace(/([a-z])([A-Z])/g, '$1 $2')
+**Thoughts:** : Learned how to group regex together and assign them to variables using .replace():
+  .replace(/([a-z])([A-Z])/g, '$1 $2')
 
-**Link to work:** [Spinal Tap Case Challenge](https://www.freecodecamp.com/challenges/spinal-tap-case)  
+**Link to work:**  
+[Spinal Tap Case Challenge](https://www.freecodecamp.com/challenges/spinal-tap-case)  
 [Sum All Fibonacci Challenge](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)  
 [My FCC page](https://www.freecodecamp.com/sunsplat)  
+
+### Day 2: January 31, 2017 Tuesday  
+  
+**Today's Progress**: Codewars - Square Every Digit, Thinkful - Number Drills: Congo warehouses, The Office II - Boredom Score  
+
+**Thoughts:** : Math.floor rounds a number down. You can use both Number() and parseInt() to convert a string into an integer.
+
+**Link to work:**  
+[My CodeWars Page](https://www.codewars.com/users/sunsplat/completed)
