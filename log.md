@@ -62,3 +62,14 @@ Starting over since I took a break to go on vacation.
 
 **Link to work:**  
 [My CodeWars Page](https://www.codewars.com/users/sunsplat/completed)
+
+### Day 3: February 1, 2017 Wednesday 
+  
+**Today's Progress**: FCC - Smallest Common Multiple, Finders Keepers
+
+**Thoughts:** : You can pass a whole function in as an argument in Finders Keepers. The filter() method creates a new array with all elements that pass the test implemented by the provided function.  
+  
+Smallest Common Multiple was a really challenging algorithm that took up most of my morning. I first needed to refresh my memory on what a common multiple was and how to derive it mathematically. Then I needed to figure out how to do it with a range of numbers. I had spent half of my time only focusing on the two numbers given in the parameter. Then I realized the reason my tests weren't passing was because the challenge required the common multiple to apply to a range of numbers. So an important lesson here is to read carefully.  
+
+**Link to work:**  
+[My FCC Page](https://www.freecodecamp.com/sunsplat)
