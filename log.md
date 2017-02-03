@@ -74,3 +74,14 @@ Smallest Common Multiple was a really challenging algorithm that took up most of
 
 **Link to work:**  
 [My FCC Page](https://www.freecodecamp.com/sunsplat)
+
+### Day 4: February 2, 2017 Thursday
+
+**Today's Progress**: FCC - Steamroller, Good Samaritan Foundation website. Adding MailChimp integration.
+
+**Thoughts:** : Learned about .apply() and how it's similar to .call() but has a more versatile use. You can pass in any number of arguments as an array to .apply() but you have to write each one out for .call().
+
+Having issues with integrating MailChimp form using the code generated for our mailing list in GSF project. Not sure what the issue could be. Still need to troubleshoot.
+
+**Link to work:**  
+[FCC Steamroller Challenge](https://www.freecodecamp.com/challenges/steamroller)  
