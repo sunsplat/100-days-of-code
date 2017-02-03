@@ -14,8 +14,9 @@
 
 **Thoughts**: Learned how to use the Boolean object and the Arguments object. Had some trouble understanding how to apply filter.
 
-**Link(s) to work**: [My FCC Profile](https://www.freecodecamp.com/sunsplat)  
-[Falsey Bouncer](https://www.freecodecamp.com/challenges/falsey-bouncer)
+**Link(s) to work**:  
+1. [My FCC Profile](https://www.freecodecamp.com/sunsplat)    
+2. [Falsey Bouncer](https://www.freecodecamp.com/challenges/falsey-bouncer)  
 
 ### Day 3: January 7, 2017 Saturday
 
@@ -25,7 +26,7 @@
 
 I also wanted to try out Google's Material Design principles. Still playing around with the color palette and display.  
 
-**Link(s) to work**
+**Link(s) to work**  
 [Twitch Favorite Channels app](https://github.com/sunsplat/fcc_twitch)
 
 ### Day 4: January 10, Tuesday
@@ -34,16 +35,16 @@ I also wanted to try out Google's Material Design principles. Still playing arou
 
 **Thoughts** Learned about the Math.abs() function to work with absolute values. Practiced using the .filter() function with the .map function. Also used .sort(function(a,b){ return a-b}); more than once.
 
-**Link(s) to work**
-1. [Digits Multiplication](https://js.checkio.org/mission/digits-multiplication/publications/category/clear/)
+**Link(s) to work**   
+1. [Digits Multiplication](https://js.checkio.org/mission/digits-multiplication/publications/category/clear/)  
 2. [Absolute Sorting](https://js.checkio.org/mission/absolute-sorting/publications/category/clear/)  
 3. [Median](https://js.checkio.org/mission/median/publications/category/clear/)
 
 ***  
 Starting over since I took a break to go on vacation.  
-  
+
 ### Day 1: January 30, 2017 Monday  
-  
+
 **Today's Progress**: Spinal Tap Case and Sum All Fibonacci Numbers intermediate algorithm challenges on FCC.  
 
 **Thoughts:** : Learned how to group regex together and assign them to variables using .replace():
@@ -55,7 +56,7 @@ Starting over since I took a break to go on vacation.
 [My FCC page](https://www.freecodecamp.com/sunsplat)  
 
 ### Day 2: January 31, 2017 Tuesday  
-  
+
 **Today's Progress**: Codewars - Square Every Digit, Thinkful - Number Drills: Congo warehouses, The Office II - Boredom Score  
 
 **Thoughts:** : Math.floor rounds a number down. You can use both Number() and parseInt() to convert a string into an integer.
@@ -63,12 +64,12 @@ Starting over since I took a break to go on vacation.
 **Link to work:**  
 [My CodeWars Page](https://www.codewars.com/users/sunsplat/completed)
 
-### Day 3: February 1, 2017 Wednesday 
-  
+### Day 3: February 1, 2017 Wednesday
+
 **Today's Progress**: FCC - Smallest Common Multiple, Finders Keepers
 
 **Thoughts:** : You can pass a whole function in as an argument in Finders Keepers. The filter() method creates a new array with all elements that pass the test implemented by the provided function.  
-  
+
 Smallest Common Multiple was a really challenging algorithm that took up most of my morning. I first needed to refresh my memory on what a common multiple was and how to derive it mathematically. Then I needed to figure out how to do it with a range of numbers. I had spent half of my time only focusing on the two numbers given in the parameter. Then I realized the reason my tests weren't passing was because the challenge required the common multiple to apply to a range of numbers. So an important lesson here is to read carefully.  
 
 **Link to work:**  
