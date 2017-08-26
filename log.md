@@ -41,9 +41,10 @@ I also wanted to try out Google's Material Design principles. Still playing arou
 3. [Median](https://js.checkio.org/mission/median/publications/category/clear/)
 
 ***  
-Starting over since I took a break to go on vacation.  
+Break
+***
 
-### Day 1: January 30, 2017 Monday  
+### Day 5: January 30, 2017 Monday  
 
 **Today's Progress**: Spinal Tap Case and Sum All Fibonacci Numbers intermediate algorithm challenges on FCC.  
 
@@ -55,7 +56,7 @@ Starting over since I took a break to go on vacation.
 [Sum All Fibonacci Challenge](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers)  
 [My FCC page](https://www.freecodecamp.com/sunsplat)  
 
-### Day 2: January 31, 2017 Tuesday  
+### Day 6: January 31, 2017 Tuesday  
 
 **Today's Progress**: Codewars - Square Every Digit, Thinkful - Number Drills: Congo warehouses, The Office II - Boredom Score  
 
@@ -64,7 +65,7 @@ Starting over since I took a break to go on vacation.
 **Link to work:**  
 [My CodeWars Page](https://www.codewars.com/users/sunsplat/completed)
 
-### Day 3: February 1, 2017 Wednesday
+### Day 7: February 1, 2017 Wednesday
 
 **Today's Progress**: FCC - Smallest Common Multiple, Finders Keepers
 
@@ -75,7 +76,7 @@ Smallest Common Multiple was a really challenging algorithm that took up most of
 **Link to work:**  
 [My FCC Page](https://www.freecodecamp.com/sunsplat)
 
-### Day 4: February 2, 2017 Thursday
+### Day 8: February 2, 2017 Thursday
 
 **Today's Progress**: FCC - Steamroller, Good Samaritan Foundation website. Adding MailChimp integration.
 
